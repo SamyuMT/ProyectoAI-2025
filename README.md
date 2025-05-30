@@ -34,3 +34,8 @@ El proyecto utiliza una librería personalizada (`libreria.py`) que contiene fun
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Descarga los conjuntos de datos requeridos y colócalos en `data/raw/`
 4. Sigue el flujo de trabajo en el orden descrito arriba.
+
+
+## Resultados
+
+Se pueden observar en el pdf titulado `Proyecto final de Inteligencia Artificial.pdf`
