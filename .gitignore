@@ -17,6 +17,7 @@ lib64/
 parts/
 sdist/
 var/
+Cuestionarios_CEED_Visuales/
 wheels/
 *.egg-info/
 .installed.cfg
